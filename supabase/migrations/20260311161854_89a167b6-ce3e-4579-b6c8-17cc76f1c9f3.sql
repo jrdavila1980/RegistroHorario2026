@@ -1,0 +1,1 @@
+ALTER TABLE public.profiles ADD COLUMN IF NOT EXISTS can_view_reports boolean NOT NULL DEFAULT true;

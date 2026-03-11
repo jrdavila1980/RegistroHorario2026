@@ -1,0 +1,7 @@
+project_id = "mjgkmtbkatesjivpmkhj"
+
+[functions.admin-create-user]
+verify_jwt = false
+
+[functions.check-clock-reminders]
+verify_jwt = false

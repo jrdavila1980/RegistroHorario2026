@@ -1,0 +1,1 @@
+ALTER TABLE public.profiles ALTER COLUMN lunch_break_duration SET DEFAULT 60;
